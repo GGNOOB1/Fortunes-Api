@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "message": "Aslam está chegando",
+        "lucky-number": 8,
+        "category": "Nárnia"
+    },
+    {
+        "id": 2,
+        "message": "Luffy está chegando",
+        "lucky-number": 12,
+        "category": "One piece"
+    },
+    {
+        "id": 3,
+        "message": "Shinzou wo sasageyo",
+        "lucky-number": 20,
+        "category": "Aot"
+    },
+    {
+        "id": 4,
+        "message": "Boruto acabará",
+        "lucky_number": 78,
+        "category": "Boruto"
+    }
+]
